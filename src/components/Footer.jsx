@@ -12,7 +12,7 @@ function Footer() {
           <a href="#">Careers</a>
           <a href="#">Contact Us</a>
         </div>
-        <p className="love">
+        {/* <p className="love">
           Design &nbsp; by{" "}
           <a
             target="_blank"
@@ -22,7 +22,7 @@ function Footer() {
           >
             &nbsp; Abderraouf
           </a>
-        </p>
+        </p> */}
       </footer>
     </>
   );
